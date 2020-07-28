@@ -1,16 +1,21 @@
-### Hi there 👋
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
 
-<!--
-**Astroficboy/Astroficboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there, I'm Pranav 👋
 
-Here are some ideas to get you started:
+### I am an entrepreneur, founder, drummer and currently a student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on getting funded for my tech company
+- 🌱 I’m currently learning python and data science
+- ⚡ Fun fact: I started my coding journey a month ago 
+
+
+
+🐦 [twitter][twitter] **|** 
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
+
+
+[twitter]: https://twitter.com/astroficboy
+[instagram]: https://instagram.com/astroficboy
+[linkedin]: https://www.linkedin.com/in/pranav-sunil-wankhedkar-744362aa/
