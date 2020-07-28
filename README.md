@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="900" height="550">
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="900" height="500">
 
 
 ## Hi there, I'm Pranav 👋
