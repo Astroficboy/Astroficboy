@@ -14,7 +14,7 @@
 - ⚡ Fun fact: I started my coding journey a month ago 
 
 
-
+<p align="center">
 🐦 [twitter][twitter] **|** 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
@@ -23,3 +23,4 @@
 [twitter]: https://twitter.com/astroficboy
 [instagram]: https://instagram.com/astroficboy
 [linkedin]: https://www.linkedin.com/in/pranav-sunil-wankhedkar-744362aa/
+</p>
