@@ -19,5 +19,5 @@
 
 [twitter]: https://twitter.com/astroficboy
 [instagram]: https://instagram.com/astroficboy
-[linkedin]: https://www.linkedin.com/in/pranav-sunil-wankhedkar-744362aa/
+[linkedin]: https://www.linkedin.com/in/pranavwankhedkar/
 
