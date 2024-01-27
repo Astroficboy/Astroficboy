@@ -10,13 +10,10 @@
 
 
 - 🔭 I’m currently working on getting funded for my tech company
-- 🌱 I’m currently learning python and data science
-- ⚡ Fun fact: I started my coding journey a month ago 
+- 🌱 I’m currently learning to crunch data into insights
+- ⚡ Fun fact: I started my coding journey at the age of 27
 
 
-
-🐦 [twitter][twitter] **|** 
-📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 
 
