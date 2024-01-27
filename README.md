@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
 </p>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Data+Science+|+Programming;AI+|+ML+|+Data+Visualization)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Data+Science+%7C+Programming;AI+%7C+ML+%7C+Data+Visialization" alt="Typing SVG" /></a>
 
 
 # Hi there, I'm Pranav 👋
