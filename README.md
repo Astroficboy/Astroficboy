@@ -10,10 +10,10 @@
 
 # Hi there, I'm Pranav 👋
 
-## I am an entrepreneur, founder, drummer and currently a student
+## I am an tech entrepreneur, founder, drummer and currently a student
 
 
-- 🔭 I’m currently working on getting funded for my tech company
+- 🔭 I’m interested in Data and Programming
 - 🌱 I’m currently learning to crunch data into insights
 - ⚡ Fun fact: I started my coding journey at the age of 27
   
