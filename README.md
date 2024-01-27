@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
 </p>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Data+Science+|+Programming;AI+|+ML+|+Data+Visualization)](https://git.io/typing-svg)
 
 
 # Hi there, I'm Pranav 👋
@@ -15,6 +15,7 @@
 
 
 👔 [linkedin][linkedin]
+
 
 
 [twitter]: https://twitter.com/astroficboy
