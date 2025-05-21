@@ -55,26 +55,24 @@
 
 ## 🐱 Play with a Cat Game in Your Terminal!
 
-If you want a fun Easter egg for your profile:
-
-> 🎮 [**Play "cat-snek" in your terminal!**](https://github.com/skidding/cat-snek)  
+> 🎮 [**Try `cat-snek` — a cat-themed terminal game!**](https://github.com/skidding/cat-snek)  
 > ```bash
 > npx cat-snek
 > ```
 
-It's like the dinosaur game from Chrome, but with a cat — runs right in your terminal 😸
+It's like Chrome's dino game, but with a cat! 😹
 
 ---
 
 ## 🔥 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranav-wankhedkar-automatonai&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=pranav-wankhedkar-automatonai&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pranav-wankhedkar&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pranav-wankhedkar&theme=tokyonight" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranav-wankhedkar-automatonai&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranav-wankhedkar&theme=tokyonight" />
 </p>
 
 ---
@@ -83,7 +81,7 @@ It's like the dinosaur game from Chrome, but with a cat — runs right in your t
 
 | Project | Description |
 |--------|-------------|
-| 🚀 [Time Series Prediction Demo](https://github.com/pranav-wankhedkar-automatonai/time_series_prediction_demo) | Predicting future values with LSTM and Prophet |
+| 🚀 [Time Series Prediction Demo](https://github.com/pranav-wankhedkar/time_series_prediction_demo) | Predicting future values with LSTM and Prophet |
 | 📊 [Data Viz Toolkit](#) | A dashboard showcasing Python + BI tools |
 | 🧠 [ML Playground](#) | Exploratory machine learning playground using Scikit-Learn & PyTorch |
 
