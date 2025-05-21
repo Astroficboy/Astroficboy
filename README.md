@@ -67,21 +67,11 @@
 
 ---
 
-## 🧩 Featured Projects
-
-| 💡 Project | 🔍 What It's About |
-|-----------|------------------|
-| 🚀 [Time Series Prediction Demo](https://github.com/pranav-wankhedkar/time_series_prediction_demo) | Forecasting with LSTM & Prophet |
-| 📊 [Data Viz Toolkit](#) | Combining BI tools & Python for intuitive dashboards |
-| 🤖 [ML Playground](#) | Experiments with Scikit-learn, PyTorch & XGBoost |
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranav-wankhedkar&show_icons=true&theme=tokyonight&hide=stars" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=pranav-wankhedkar&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=astroficboy&show_icons=true&theme=tokyonight&hide=stars" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=astroficboy&theme=tokyonight" height="180" />
 </p>
 
 ---
