@@ -2,107 +2,113 @@
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" alt="Coding Animation">
 </p>
 
-<p align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=500&lines=Data+Scientist+%7C+ML+Enthusiast+%7C+Builder;Turning+data+into+stories;Coding+%7C+Learning+%7C+Drumming">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=500&lines=Data+Scientist+%7C+ML+Enthusiast+%7C+Builder;Turning+data+into+stories;Coding+%7C+Learning+%7C+Drumming" alt="Typing SVG" />
-  </a>
-</p>
-
 <h1 align="center">Hi there, I'm Pranav 👋</h1>
 
 <p align="center">
-  <b>Tech entrepreneur • Founder • Drummer • Lifelong learner</b><br>
-  <i>Currently a student, passionate about transforming data into insights.</i>
+  <b>Data Scientist | ML Explorer | Builder | Drummer</b><br>
+  <i>Turning data into stories, one model at a time.</i>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=500&lines=ML+Enthusiast+%7C+Data+Storyteller+%7C+Tech+Builder;Drummer+with+a+penchant+for+Python;Always+learning%2C+always+building." alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🧠 **Interests:** Data Science, Programming, AI/ML, Data Visualization
-- 🧪 **Learning:** Building ML pipelines, model ops, scalable data solutions
-- 🥁 **Fun Fact:** Started coding at 27 and haven’t looked back!
-- 🎨 **Creative Side:** Drummer, storyteller, and tech explorer
+🎓 Currently a student exploring the frontiers of **machine learning** and **data-driven storytelling**  
+🧠 Passionate about building **ML pipelines**, crafting **intelligent apps**, and creating **impact with data**  
+🥁 Started coding at 27 — now juggling code, ideas, and drumsticks  
+💡 Constantly exploring: from **data visualization** to **DevOps for ML**
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Toolbox
 
+**Languages & Tools**
 <p align="center">
-  <!-- Core Languages -->
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/R-%23276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-%234479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-%23F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
 
-  <!-- Tools & Libraries -->
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+**ML & Data Science**
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-%2311557C?style=for-the-badge&logo=plotly&logoColor=white" />
+</p>
 
-  <!-- Platforms & DevOps -->
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+**DevOps & Deployment**
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
-  <!-- Visualization & BI -->
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white" />
+**Visualization & BI**
+<p align="center">
+  <img src="https://img.shields.io/badge/Tableau-%23E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerBI-%23F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
 ---
 
-## 🐱 Play with a Cat Game in Your Terminal!
+## 🧠 Current Focus
 
-> 🎮 [**Try `cat-snek` — a cat-themed terminal game!**](https://github.com/skidding/cat-snek)  
-> ```bash
-> npx cat-snek
-> ```
-
-It's like Chrome's dino game, but with a cat! 😹
+- 🔧 Building scalable ML pipelines & real-time dashboards  
+- 🔍 Exploring NLP, time series modeling, and MLOps  
+- 🌍 Creating visual stories with data for real-world impact  
+- 🛠️ Tools I'm learning: **MLflow**, **Streamlit**, **Airflow**
 
 ---
 
-## 🔥 GitHub Stats & Activity
+## 🧩 Featured Projects
+
+| 💡 Project | 🔍 What It's About |
+|-----------|------------------|
+| 🚀 [Time Series Prediction Demo](https://github.com/pranav-wankhedkar/time_series_prediction_demo) | Forecasting with LSTM & Prophet |
+| 📊 [Data Viz Toolkit](#) | Combining BI tools & Python for intuitive dashboards |
+| 🤖 [ML Playground](#) | Experiments with Scikit-learn, PyTorch & XGBoost |
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranav-wankhedkar&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=pranav-wankhedkar&theme=tokyonight" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranav-wankhedkar&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pranav-wankhedkar&show_icons=true&theme=tokyonight&hide=stars" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pranav-wankhedkar&theme=tokyonight" height="180" />
 </p>
 
 ---
 
-## 🌟 Featured Projects
+## 🎮 Just for Fun: Terminal Cat Game!
 
-| Project | Description |
-|--------|-------------|
-| 🚀 [Time Series Prediction Demo](https://github.com/pranav-wankhedkar/time_series_prediction_demo) | Predicting future values with LSTM and Prophet |
-| 📊 [Data Viz Toolkit](#) | A dashboard showcasing Python + BI tools |
-| 🧠 [ML Playground](#) | Exploratory machine learning playground using Scikit-Learn & PyTorch |
+> 🐾 `npx cat-snek`  
+> A cat-themed terminal game — like Dino, but with more attitude!
 
 ---
 
-## 📫 Connect with Me
+## 🤝 Let's Connect!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pranavwankhedkar/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/astroficboy">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://instagram.com/astroficboy">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>"Turning data into stories and ideas into action."</i>
+  <i>"Turning data into stories. Ideas into action. Mistakes into lessons."</i>
 </p>
